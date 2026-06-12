@@ -105,7 +105,7 @@ const gaurav = {
 
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/gaurav2ai/gaurav2ai/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/gaurav2ai/gaurav2ai/output/github-contribution-grid-snake.svg)
 
 </div>
 
